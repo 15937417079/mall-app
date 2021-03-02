@@ -1,0 +1,1 @@
+<view class="other d-flex j-sb a-center font-999 data-v-564b04f8"><block wx:for="{{otherBtnArr}}" wx:for-item="item" wx:for-index="index" wx:key="index"><text class="data-v-564b04f8">{{item.val}}</text></block></view>

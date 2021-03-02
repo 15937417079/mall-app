@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "expo-real": "/pages/home/expoModule/expoReal",
+    "floor-graphic": "/pages/home/expoModule/floorGraphic"
+  }
+}

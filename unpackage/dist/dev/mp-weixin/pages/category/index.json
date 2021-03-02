@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "header-bar": "/pages/searchPage/headerBar",
+    "category-nav": "/components/categoryNav",
+    "commodity-module": "/pages/category/commodityModule"
+  }
+}

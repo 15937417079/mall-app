@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "seckill-list": "/pages/home/jdSeckill/seckillList"
+  }
+}

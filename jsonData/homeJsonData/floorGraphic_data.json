@@ -1,0 +1,6 @@
+[
+	{ "id": 0, "title": "潮流女装", "desc": "靓丽女装", "picUrl": "/static/images/expo/expo-5.png" },
+	{ "id": 1, "title": "爱上垂钓", "desc": "缓解压力", "picUrl": "/static/images/expo/expo-6.png" },
+	{ "id": 2, "title": "运动童鞋", "desc": "运动鞋", "picUrl": "/static/images/expo/expo-7.png" },
+	{ "id": 3, "title": "越野玩家", "desc": "越玩越野", "picUrl": "/static/images/expo/expo-8.png" }
+]

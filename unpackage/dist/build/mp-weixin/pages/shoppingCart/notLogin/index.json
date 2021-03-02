@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "jd-seckill-line": "/components/jdSeckillLine",
+    "jd-seckill": "/pages/shoppingCart/notLogin/jdSeckill",
+    "recomment-list": "/pages/home/recommentList/index"
+  }
+}

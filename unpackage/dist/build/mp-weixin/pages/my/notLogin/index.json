@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "header-bar": "/pages/my/headerBar",
+    "login-module": "/pages/my/notLogin/loginModule/index",
+    "other-module": "/pages/my/notLogin/otherModule/index"
+  }
+}

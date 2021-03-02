@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "v-swiper": "/components/v-swiper/v-swiper",
+    "floor-module": "/pages/home/header/floorModule"
+  }
+}

@@ -1,0 +1,87 @@
+page {
+	height: 100%;
+	font-size: 28upx;
+	line-height: 1.8;
+	background-color: #f1f1f1;
+	// padding: 170upx 2% 600upx;
+}
+.uni-body{
+}
+
+// .uni-page-head {
+// 	top: 100upx !important;
+// }
+
+.font-f{
+	font-family: PingFangSC-Light,PingFang-Medium,PingFangSC-Regular,Helvetica,Droid Sans,Arial,sans-serif;
+}
+
+.font-w {
+	font-weight: 700;
+}
+
+.bg-color{
+	background-color: #F1F1F1;
+}
+.bg-fff{
+	background-color: #fff;
+}
+.bg-f00{
+	background-color: #fa2c19;
+}
+.bg-333{
+	background-color: #333333;
+}
+.bg-666{
+	background-color: #666;
+}
+.bg-999{
+	background-color: #999;
+}
+.bg-ddd{
+	background-color: #ddd;
+}
+.bg-fce{
+	background-color: #fcedeb;
+}
+// 单行溢出隐藏
+.v-one-hidden{
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+// 多行溢出隐藏
+.v-two-hidden{
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 2;
+	overflow: hidden;
+}
+
+.font-333{ color: #333; }
+.font-555 { color: #555; }
+.font-666 { color: #666; }
+.font-999 { color: #999; }
+.font-color-fff{color: #fff}
+.jd-font-red { color: #fa2c19; }
+.jd-bg-red { color: #fa2c19; }
+
+
+	$font-color: #666;
+.goodsListTitle {
+	display: inline-block;
+	color: $font-color;
+	line-height: 60upx;
+	font-size: 30upx;
+	font-weight: 700;
+	width: 100%;
+}
+
+/* 右箭头 */
+.arrow-r{
+	width: 15upx;
+	height: 15upx;
+	border-top: 1px solid #999;
+	border-right: 1px solid #999;
+	transform: rotate(45deg);
+}

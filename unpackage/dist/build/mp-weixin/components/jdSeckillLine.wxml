@@ -1,0 +1,1 @@
+<view class="jdSeckillLine position-rel d-flex j-center data-v-b726273a"><text class="z-index-3 d-flex j-center a-center font-666 px-4 position-rel data-v-b726273a" style="{{'background-color:'+(textBg)+';'+('color:'+(textColor)+';')}}">{{text}}</text></view>

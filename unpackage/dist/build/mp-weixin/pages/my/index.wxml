@@ -1,0 +1,1 @@
+<view class="data-v-609e5e91"><block wx:if="{{!$store.state.loginStatus}}"><not-login vue-id="4a180d5e-1" class="data-v-609e5e91" bind:__l="__l"></not-login></block><block wx:if="{{$store.state.loginStatus}}"><already-login vue-id="4a180d5e-2" class="data-v-609e5e91" bind:__l="__l"></already-login></block></view>

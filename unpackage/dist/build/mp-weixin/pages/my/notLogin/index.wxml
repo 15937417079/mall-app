@@ -1,0 +1,1 @@
+<view class="my-not-login w-100 bg-fff position-abs data-v-7d345cbf"><header-bar vue-id="c027c81a-1" class="data-v-7d345cbf" bind:__l="__l"></header-bar><login-module vue-id="c027c81a-2" class="data-v-7d345cbf" bind:__l="__l"></login-module><other-module vue-id="c027c81a-3" class="data-v-7d345cbf" bind:__l="__l"></other-module></view>

@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "login-input": "/pages/my/notLogin/loginModule/loginInput",
+    "login-btn": "/pages/my/notLogin/loginModule/loginBtn",
+    "register": "/pages/my/notLogin/loginModule/register"
+  }
+}

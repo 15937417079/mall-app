@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "title-wrap": "/pages/home/jdSeckill/titleWrap",
+    "seckill-list": "/pages/home/jdSeckill/seckillList",
+    "seckill-fls": "/pages/home/jdSeckill/seckillFls"
+  }
+}

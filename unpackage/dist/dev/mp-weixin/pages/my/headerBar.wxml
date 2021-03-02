@@ -1,0 +1,1 @@
+<view class="header-bar w-100 bg-fff d-flex a-center j-center position-rel data-v-0b7f9dc8"><view data-event-opts="{{[['tap',[['returnHandle',['$event']]]]]}}" class="iconfont iconicon-copy f-size-20 font-w position-abs _i data-v-0b7f9dc8" bindtap="__e"></view><text class="f-size-18 a-self-center text-center data-v-0b7f9dc8">京东登录注册</text></view>

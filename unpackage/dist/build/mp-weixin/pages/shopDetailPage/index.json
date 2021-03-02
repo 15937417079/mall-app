@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "商品详情页",
+  "usingComponents": {
+    "v-swiper": "/pages/shopDetailPage/swiper/index",
+    "introduce": "/pages/shopDetailPage/introduce/index"
+  }
+}

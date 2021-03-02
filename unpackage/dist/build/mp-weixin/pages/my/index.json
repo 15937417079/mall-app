@@ -1,0 +1,7 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "not-login": "/pages/my/notLogin/index",
+    "already-login": "/pages/my/alreadyLogin/index"
+  }
+}

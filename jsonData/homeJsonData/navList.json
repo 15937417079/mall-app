@@ -1,0 +1,22 @@
+[
+	{ "imgUrl": "/static/images/jdNavImg/jdCs.png", "text": "京东超市" },
+	{ "imgUrl": "/static/images/jdNavImg/jd3C.png", "text": "数码电器" },
+	{ "imgUrl": "/static/images/jdNavImg/jdFs.png", "text": "京东服饰" },
+	{ "imgUrl": "/static/images/jdNavImg/jdSx.png", "text": "京东生鲜" },
+	{ "imgUrl": "/static/images/jdNavImg/jdDj.png", "text": "京东到家" },
+	{ "imgUrl": "/static/images/jdNavImg/jdPhone.png", "text": "充值缴费" },
+	{ "imgUrl": "/static/images/jdNavImg/jd9.9.png", "text": "9.9元拼" },
+	{ "imgUrl": "/static/images/jdNavImg/jdLj.png", "text": "领劵" },
+	{ "imgUrl": "/static/images/jdNavImg/jdLjt.png", "text": "领金贴" },
+	{ "imgUrl": "/static/images/jdNavImg/jdPLUS.png", "text": "PLUS会员" },
+	{ "imgUrl": "/static/images/jdNavImg/jd-r-jk.png", "text": "京东国际" },
+	{ "imgUrl": "/static/images/jdNavImg/jd-r-pm.png", "text": "京东拍卖" },
+	{ "imgUrl": "/static/images/jdNavImg/jd-r-wph.png", "text": "唯品会" },
+	{ "imgUrl": "/static/images/jdNavImg/jd-r-3c.png", "text": "玩3C" },
+	{ "imgUrl": "/static/images/jdNavImg/jd-r-wem.png", "text": "沃尔玛" },
+	{ "imgUrl": "/static/images/jdNavImg/jd-r-mz.png", "text": "美妆馆" },
+	{ "imgUrl": "/static/images/jdNavImg/jd-r-lx.png", "text": "京东旅行" },
+	{ "imgUrl": "/static/images/jdNavImg/jd-r-es.png", "text": "拍拍二手" },
+	{ "imgUrl": "/static/images/jdNavImg/jd-r-wl.png", "text": "物流查询" },
+	{ "imgUrl": "/static/images/jdNavImg/jd-r-all.png", "text": "全部" }
+]

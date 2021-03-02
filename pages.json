@@ -1,0 +1,128 @@
+{
+		//pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+	"pages": [{
+			"path": "pages/home/index",
+			"style": {
+				"navigationStyle":"custom",
+				"app-plus": {
+					"animationType":"pop-in",
+					"animationDuration": 200,
+					"scrollIndicator": "none",
+					"titleNView": {
+						"backgroundColor":"#f00",
+						"searchInput": {
+							"autoFocus": true,
+							"align": "center",
+							"float": "left",
+							"placeholder": "请输入搜索内容",
+							"placeholderColor": "#ccc",
+							"backgroundColor": "#F7F7F7",
+							"borderRadius": "50upx"
+						},
+						"buttons": [{
+							"color": "#fff",
+							"colorPressed": "#f23",
+							"float": "right",
+							"text": "登陆",
+							"width": "80upx",
+							"fontSize": "14upx"
+						}, 
+						{
+							"color": "#fff",
+							"colorPressed": "#f23",
+							"float": "left",
+							"text": "info",
+							"width": "80upx",
+							"fontSize": "14upx"
+						}]
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/category/index",
+			"style": {
+				"navigationStyle":"custom",
+				"app-plus": {
+					"titleNView":{
+						"backgroundColor":"#eee",
+						"searchInput":{
+							"align": "center",
+							"float": "right",
+							"placeholder":"请输入搜索内容",
+							"placeholderColor":"#ccc",
+							"borderRadius": "50upx",
+							"backgroundColor":"#f7f7f7"
+						},
+						"buttons":[{
+							"color": "#666",
+							"float": "left",
+							"text": "&lt;"
+						}]
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/shoppingCart/index",
+			"style": {
+				"navigationBarTitleText": "购物车"
+			}
+		},
+		{
+			"path": "pages/my/index",
+			"style": {
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path":"pages/searchPage/index",
+			"style": {
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path":"pages/shopDetailPage/index",
+			"style":{
+				"navigationStyle": "custom"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#666666",
+		"selectedColor": "#E93323",
+		"backgroundColor": "#ffffff",
+		"iconWidth":"18px",
+		"list": [{
+				"pagePath": "pages/home/index",
+				"text": "首页",
+				"iconPath": "static/images/iconfont_img/home.png",
+				"selectedIconPath": "static/images/iconfont_img/select_home.png"
+			},
+			{
+				"pagePath": "pages/category/index",
+				"text": "分类",
+				"iconPath": "static/images/iconfont_img/category.png",
+				"selectedIconPath": "static/images/iconfont_img/select_category.png"
+			},
+			{
+				"pagePath": "pages/shoppingCart/index",
+				"text": "购物车",
+				"iconPath": "static/images/iconfont_img/shopping.png",
+				"selectedIconPath": "static/images/iconfont_img/select_shopping.png"
+			},
+			{
+				"pagePath": "pages/my/index",
+				"text": "我的",
+				"iconPath": "static/images/iconfont_img/my.png",
+				"selectedIconPath": "static/images/iconfont_img/select_my.png"
+			}
+		]
+	}
+}

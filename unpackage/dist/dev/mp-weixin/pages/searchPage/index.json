@@ -1,0 +1,7 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "lastst-search": "/pages/searchPage/laststSearchs",
+    "header-bar": "/pages/searchPage/headerBar"
+  }
+}

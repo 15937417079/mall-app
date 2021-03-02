@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["pages/home/header/headerModule"],{"0ce8":function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.default=void 0;var c=function(){t.e("components/v-swiper/v-swiper").then(function(){return resolve(t("c799"))}.bind(null,t)).catch(t.oe)},u=function(){t.e("pages/home/header/floorModule").then(function(){return resolve(t("5800"))}.bind(null,t)).catch(t.oe)},r={data:function(){return{swiperData:[{url:"//m.360buyimg.com/mobilecms/s700x280_jfs/t1/162098/35/3370/185419/6006563cE4db863fa/7f0d6ea389a21958.jpg!q70.jpg.dpg"},{url:"//m.360buyimg.com/mobilecms/s700x280_jfs/t1/159233/27/3537/36036/60017501Ef802b844/dedac2215c4ca8f7.jpg!q70.jpg.dpg"},{url:"//m.360buyimg.com/mobilecms/s700x280_jfs/t1/160089/20/3956/464901/6006a471E87acc0f4/050b0719dd2b8a7b.jpg!q70.jpg.dpg"}]}},components:{vSwiper:c,floorModule:u}};n.default=r},4258:function(e,n,t){"use strict";t.r(n);var c=t("c9cc"),u=t("4e19");for(var r in u)"default"!==r&&function(e){t.d(n,e,(function(){return u[e]}))}(r);t("bab8");var o,a=t("f0c5"),i=Object(a["a"])(u["default"],c["b"],c["c"],!1,null,"68654d2b",null,!1,c["a"],o);n["default"]=i.exports},"4e19":function(e,n,t){"use strict";t.r(n);var c=t("0ce8"),u=t.n(c);for(var r in c)"default"!==r&&function(e){t.d(n,e,(function(){return c[e]}))}(r);n["default"]=u.a},b589:function(e,n,t){},bab8:function(e,n,t){"use strict";var c=t("b589"),u=t.n(c);u.a},c9cc:function(e,n,t){"use strict";t.d(n,"b",(function(){return u})),t.d(n,"c",(function(){return r})),t.d(n,"a",(function(){return c}));var c={vSwiper:function(){return t.e("components/v-swiper/v-swiper").then(t.bind(null,"c799"))}},u=function(){var e=this,n=e.$createElement;e._self._c},r=[]}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'pages/home/header/headerModule-create-component',
+    {
+        'pages/home/header/headerModule-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("4258"))
+        })
+    },
+    [['pages/home/header/headerModule-create-component']]
+]);

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "购物车",
+  "usingComponents": {
+    "not-login": "/pages/shoppingCart/notLogin/index",
+    "already-login": "/pages/shoppingCart/alreadyLogin/index"
+  }
+}

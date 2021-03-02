@@ -1,0 +1,12 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "adsense": "/pages/home/adsense/index",
+    "header-bar": "/pages/home/headerBar/index",
+    "header-module": "/pages/home/header/headerModule",
+    "v-nav": "/components/v-nav",
+    "jd-sechill": "/pages/home/jdSeckill/index",
+    "expo-module": "/pages/home/expoModule/index",
+    "recomment-list": "/pages/home/recommentList/index"
+  }
+}

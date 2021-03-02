@@ -1,0 +1,26 @@
+<template>
+	<view class="adsense_fixed w-100 position-fixed top-0 left-0 row">
+		<view class="position-rel col-8 bg-333 d-flex j-end a-center p-r-4 font-color-fff">
+		<text class="position-abs left-0 p-l-2 font-999 f-size-18" @tap="clear">x</text>
+			打开京东app,购物更轻松</view>
+		<view class="col-4 bg-f00 font-color-fff h-100 d-flex a-center j-center">立即打开</view>
+	</view>
+</template>
+
+<script>
+	export default {
+		methods:{
+			clear(){
+				this.$emit('clearAdsense')
+			}
+		}
+	}
+</script>
+
+<style lang="scss">
+.adsense_fixed {
+	height: 90upx;
+	background-color: blue;
+	z-index: 99;
+}
+</style>

@@ -1,0 +1,97 @@
+[{
+		"id": 0,
+		"picUrl": "/static/images/recomment/cp-1.jpg",
+		"desc": "绍枫男士牛仔裤修身秋冬款2021新款宽松直筒潮牌冬季B2-1-6#1818 黑色 S",
+		"price": "128.9",
+		"fr": true,
+		"jdSup": true
+	},
+	{
+		"id": 1,
+		"picUrl": "/static/images/recomment/cp-2.jpg",
+		"desc": "宁安堡 宁夏枸杞 枸杞子 食补 免洗头茬新货 宁夏特级中宁枸杞 250g*2袋 独立小包装",
+		"price": "36.9",
+		"fr": true,
+		"jdSup": true
+	},
+	{
+		"id": 2,
+		"picUrl": "/static/images/recomment/cp-3.jpg",
+		"desc": "杨妮2020秋冬季新款女装韩版宽松针织开衫中长款秋冬长袖外搭毛衣外套GT-BF19-8771 灰色 均码",
+		"price": "85",
+		"fr": false,
+		"jdSup": false
+	},
+	{
+		"id": 3,
+		"picUrl": "/static/images/recomment/cp-4.jpg",
+		"desc": "石影维2020冬装长袖加厚纯色高领针织毛衣女A1-1026- 20033亲 白色 S",
+		"price": "107",
+		"fr": true,
+		"jdSup": false
+	},
+	{
+		"id": 4,
+		"picUrl": "/static/images/recomment/cp-5.jpg",
+		"desc": " 松下（Panasonic）TH-55GX580C 55英寸人工智能蓝牙语音全面屏4K超清",
+		"price": "2897",
+		"fr": false,
+		"jdSup": true
+	},
+	{
+		"id": 5,
+		"picUrl": "/static/images/recomment/cp-6.jpg",
+		"desc": "新中式圆形客厅装饰画书房茶室玄关走廊过道餐厅山水水墨晶瓷挂画 wz-1 直径30cm",
+		"price": "46",
+		"fr": true,
+		"jdSup": false
+	},
+	{
+		"id": 6,
+		"picUrl": "/static/images/recomment/cp-7.jpg",
+		"desc": " 杨妮2020秋季新款毛衣女上衣V领显瘦毛衫针织衫GT-BF19-A805 皮红 均码 ",
+		"price": "69",
+		"fr": true,
+		"jdSup": true
+	},
+	{
+		"id": 7,
+		"picUrl": "/static/images/recomment/cp-8.jpg",
+		"desc": "FAENZA）F2C9802SC 卫浴简易淋浴花洒套装 浴缸精铜水龙头淋雨喷头",
+		"price": "499",
+		"fr": false,
+		"jdSup": false
+	},
+	{
+		"id": 8,
+		"picUrl": "/static/images/recomment/cp-9.jpg",
+		"desc": "空气清新剂香氛家用室内卫生间香味持久衣柜除味神器摆件 六件套青柠罗勒柑橘【驱虫 防蚊】",
+		"price": "26.9",
+		"fr": true,
+		"jdSup": false
+	},
+	{
+		"id": 9,
+		"picUrl": "/static/images/recomment/cp-10.jpg",
+		"desc": "免打孔厨房置物架不锈钢壁挂式筷子砧板架调料锅盖刀架厨具收纳架 黑色免钉挂杆40CM",
+		"price": "86.9",
+		"fr": true,
+		"jdSup": true
+	},
+	{
+		"id": 10,
+		"picUrl": "/static/images/recomment/cp-11.jpg",
+		"desc": "杨妮针织开衫女短款披肩2020秋装新款宽松拼色毛衣外套女上衣GT-BF19-A293 黑色 均码",
+		"price": "89.9",
+		"fr": false,
+		"jdSup": false
+	},
+	{
+		"id": 11,
+		"picUrl": "/static/images/recomment/cp-12.jpg",
+		"desc": "简约现代客厅装饰画欧式轻奢三联画抽象沙发背景墙挂画餐厅墙壁画 52139-1-2-3/黑Nx*框 30X40质感*油布画/厚*30mm",
+		"price": "88.8",
+		"fr": false,
+		"jdSup": false
+	}
+]
